@@ -1,0 +1,40 @@
+// 变量文件
+
+// 基础色彩系统
+// 中性色
+$white: #fff !default;
+$gray-01: #f7f8fa !default;
+$gray-02: #f2f3f5 !default;
+$gray-03: #e5e6eb !default;
+$gray-04: #c9cdd4 !default;
+$gray-05: #a9aeb8 !default;
+$gray-06: #86909c !default;
+$gray-07: #6b7785 !default;
+$gray-08: #4e5969 !default;
+$gray-09: #272e3b !default;
+$gray-10: #1d2129 !default;
+$black: #000 !default;
+// 基础色
+$red: #f53f3f !default;
+$orange-red: #f77234 !default;
+$orange: #ff7d00 !default;
+$gold: #f7ba1e !default;
+$yellow: #fadc19 !default;
+$lime: #9fdb1d !default;
+$green: #00b42a !default;
+$cyan: #14c9c9 !default;
+$blue: #3491fa !default;
+$arco-blue: #165dff !default;
+$purple: #722ed1 !default;
+$pink-purple: #d91ad9 !default;
+$magenta: #f5319d !default;
+$gray: #86909c !default;
+// 系统色
+$primary: $blue !default;
+$secondary: $gray !default;
+$success: $green !default;
+$info: $arco-blue !default;
+$warning: $yellow !default;
+$danger: $red !default;
+$light: $gray-01 !default;
+$dark: $gray-10 !default;
