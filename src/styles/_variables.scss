@@ -49,8 +49,8 @@ $font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
 $font-family-base: $font-family-sans-serif !default;
 // 字体大小
 $font-size-base: 1rem !default; // assumes the browser default, typically '16px'
-$font-size-lg: $font-size-base * 1.25 !default;
-$font-size-sm: $font-size-base * 0.875 !default;
+$font-size-large: $font-size-base * 1.25 !default;
+$font-size-small: $font-size-base * 0.875 !default;
 $font-size-root: null !default;
 // 字重
 $font-weight-lighter: lighter !default;
@@ -61,8 +61,8 @@ $font-weight-bolder: bolder !default;
 $font-weight-base: $font-weight-normal !default;
 // 行高
 $line-height-base: 1.5 !default;
-$line-height-lg: 2 !default;
-$line-height-sm: 1.25 !default;
+$line-height-large: 2 !default;
+$line-height-small: 1.25 !default;
 // 标题大小
 $h1-font-size: $font-size-base * 2.5 !default;
 $h2-font-size: $font-size-base * 2 !default;
@@ -76,6 +76,6 @@ $link-decoration: none !default;
 $link-hover-color: darken($link-color, 15%) !default;
 $link-hover-decoration: underline !default;
 // body相关
-$body-bg: $white !default;
-$body-color: $gray-900 !default;
+$body-background-color: $white !default;
+$body-color: $gray-10 !default;
 $body-text-align: null !default;
